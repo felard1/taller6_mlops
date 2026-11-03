@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.DS_Store
+.tox/
+.pytest_cache/
+.mypy_cache/
+*.pem
+/*.pdf
